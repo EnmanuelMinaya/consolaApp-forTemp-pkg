@@ -1,0 +1,22 @@
+{
+  "name": "consoleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consoleapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnmanuelMinaya/consolaApp-forTemp-pkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnmanuelMinaya/consolaApp-forTemp-pkg/issues"
+  },
+  "homepage": "https://github.com/EnmanuelMinaya/consolaApp-forTemp-pkg#readme",
+  "dependencies": {
+    "temp-test-package": "^1.0.0"
+  }
+}
